@@ -1,8 +1,8 @@
-Thao Thai
+#Thao Thai
 Linux Project
 Flappy Bird and Frozen "HeatMap"
 
-#twitter keyword "Frozen" and "flappy bird"
+twitter keyword "Frozen" and "flappy bird"
 
 # Combine All Collect Files Into One
 cat file1.txt file2.txt > flappybird.txt
